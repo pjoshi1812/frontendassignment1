@@ -1,12 +1,27 @@
-# React + Vite
+#  Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project is an internal landing page developed as part of a Front-End Developer assignment. The page is implemented using React and Tailwind CSS, following the provided Figma design with pixel-perfect accuracy.
 
-Currently, two official plugins are available:
+## Features
+- **Pixel-Perfect Implementation:** The design  follows the Figma specifications, including  typography and colors.
+- **Optimized Assets:** Images and media are compressed and optimized for faster loading times.
+- **Cross-Browser Compatibility:** Tested on major browsers including Chrome, Edge, etc.
+- **Clean React Code:** Developed with React functional components and hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js (Functional Components & Hooks)
+- Tailwind CSS for styling and layout
+- Vite
 
-## Expanding the ESLint configuration
+##Steps:
+  - Node.js and npm installed (Prerequisites)
+  1. Clone the repository  : git clone "https://github.com/pjoshi1812/frontendassignment1.git"
+  2. cd frontendassignment1
+  3. npm install
+  4. npm run dev
+  5. go to http://localhost:5173/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ##thank you !
+
+
