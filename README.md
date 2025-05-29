@@ -14,7 +14,7 @@ This project is an internal landing page developed as part of a Front-End Develo
 - Tailwind CSS for styling and layout
 - Vite
 
-##Steps:
+## Steps:
   - Node.js and npm installed (Prerequisites)
   1. Clone the repository  : git clone "https://github.com/pjoshi1812/frontendassignment1.git"
   2. cd frontendassignment1
@@ -22,6 +22,6 @@ This project is an internal landing page developed as part of a Front-End Develo
   4. npm run dev
   5. go to http://localhost:5173/
 
-  ##thank you !
+## thank you !
 
 
